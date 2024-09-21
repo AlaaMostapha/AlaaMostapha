@@ -1,4 +1,4 @@
-## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/ac8ac365-7621-45bf-bba3-7d4a81cc16be)
 
 <!--
 **AlaaMostapha/AlaaMostapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
