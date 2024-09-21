@@ -1,5 +1,11 @@
-![github-header-image (3)](https://github.com/user-attachments/assets/790b861d-e1e9-4438-b7e6-5ecb9ad7be0d)
+![github![frontend_4](https://github.com/user-attachments/assets/dba6f310-74ab-42b0-aa6c-990a2054bb20)
 
+<img align="left" width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/user-attachments/assets/790b861d-e1e9-4438-b7e6-5ecb9ad7be0d)">
+Welcome to my Github profile! I am a Senior Frontend Developer with over 5 years of experience specializing in dynamic web applications. I create intuitive and visually appealing user interfaces that enhance user experience, using HTML 5, CSS, SASS, Bootstrap, Material UI, and Responsive Designs. 
+
+I am proficient in JavaScript, ES6, Jquery, React.js, Redux, Redux-saga, Vue.js, Vuex, and Express, which enable me to develop complex web applications with ease. I have also implemented a freelancing marketplace that connects freelancers to clients, and participated in code reviews, architecture meetings, and unit testing to maintain the quality of the code. Additionally, I am familiar with working with agile methodologies and possess the agility to develop and implement technical solutions to overcome daily business challenges. 
+
+I hold a Bachelor's degree in Computer Science from Alexandria University and a nanoDegree in Computer Software Engineering from Udacity. I have also obtained multiple certifications from Technology Innovation and Entrepreneurship Center and Intel Corporation. I am passionate about learning new technologies and applying them to solve real-world problems. I am also fluent in Arabic, English, and Italian.
 <!--
 **AlaaMostapha/AlaaMostapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
